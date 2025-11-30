@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mandarin_north",
+        "name_en": "Northern Mandarin",
+        "name_zh": "北方官话",
+        "description": "Spoken across northern China, including Beijing region."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110, 40],
+            [115, 40],
+            [115, 35],
+            [110, 35],
+            [110, 40]
+          ]
+        ]
+      }
+    }
+  ]
+}
